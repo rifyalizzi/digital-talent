@@ -1,5 +1,5 @@
 
-weight = 58
+weight = 90
 height = 169
 
 #Formula Perhitungan BMI
